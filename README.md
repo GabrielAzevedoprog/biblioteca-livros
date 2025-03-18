@@ -23,9 +23,9 @@ Este sistema permite ao usuário gerenciar uma lista de livros em uma biblioteca
 ```
 Biblioteca/
 │-- src/
-│   │-- Biblioteca.java
+│   │-- code/
+│       │-- Main.java
 │-- README.md
-```
 
 ## Exemplo de Uso
 ```
