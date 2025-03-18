@@ -8,6 +8,7 @@ Este sistema permite ao usuário gerenciar uma lista de livros em uma biblioteca
 - **Pesquisar Livro por Título**: Busca um livro pelo título e exibe suas informações se encontrado.
 - **Excluir Livro pelo Título**: Remove um livro pelo título caso ele esteja cadastrado.
 - **Listar Todos os Livros**: Exibe todos os livros cadastrados no sistema.
+- **Validação de Dados**: Antes de qualquer cadastro, o sistema verifica se todos os campos obrigatórios foram preenchidos. Caso contrário, exibe a mensagem: "Por favor, preencha todos os campos obrigatórios."
 
 ## Tecnologias Utilizadas
 - Java
